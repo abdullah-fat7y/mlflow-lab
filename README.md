@@ -16,6 +16,8 @@ For each run, MLflow records:
 
 Finally, the best-performing model is selected based on **RMSE**.
 
+<img width="1920" height="1020" alt="Code_tG8RW2i5dE" src="https://github.com/user-attachments/assets/791e176f-2d0a-4026-85c8-f0acb97353ed" />
+
 ---
 
 ## 2. How to Run the Project
